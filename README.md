@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Hugo 👋
 
 I am an **Engineering Student in Data Science and Mathematics** at Tecnológico de Monterrey. I am deeply passionate about leveraging advanced mathematics, operations research, and data analytics to solve complex real-world optimization challenges.
 
@@ -25,17 +25,6 @@ Beyond academics, I enjoy leading student-driven projects, optimizing processes,
 *An educational and digital inclusion platform focused on standardizing Mexican Sign Language (LSM).*  
 `Software Dev` `Social Impact` `Accessibility`
 
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugo-meza&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Your GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-meza&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180px"/>
-</p>
-
----
 
 ### 🤝 Connect with Me
 - **LinkedIn:** [linkedin.com/in/hugo-a-meza](https://www.linkedin.com/in/hugo-a-meza)
